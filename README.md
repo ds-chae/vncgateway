@@ -4,7 +4,7 @@ You can connect to vnc from outside of intranet. You need one Linux server with 
 To build :
   $ make
   
-To Use :
+To Use :<br>
   In a VNC Server :
     $ ./gw 2 port3(for local vnc server) port2(for gateway server) IP-ADDRESS(gateway's)
   In a gateway Server:
